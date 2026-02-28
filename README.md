@@ -42,14 +42,15 @@ Built with modern frontend technologies, the app focuses on clean UI, soft paste
 🌈 Pastel Aesthetic UI with Soft Card Layout
 
 
-🛠 Tech Stack
 
-HTML5
+🛠 Tech Stack :
 
-CSS
+-HTML
 
-JavaScript
+-CSS
 
-Netlify (Deployment)
+-JavaScript
+
+-Netlify (Deployment)
 
 
