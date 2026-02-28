@@ -1,7 +1,7 @@
 📚 Smart Study Planner – Productivity App
 
 🌐 Live Website:
-https://smart-study-planner-pragya.netlify.app
+https://pragya-studyplanner.netlify.app/
 
 🌸 Overview
 
